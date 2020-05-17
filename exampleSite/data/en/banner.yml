@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   bg_image: images/backgrounds/bg-white-wall.jpg
-  icon: ''
+  icon: images/backgrounds/bg-white-wall.jpg
   title: Everything data
   content: A blog with R and Tableau
   button:
