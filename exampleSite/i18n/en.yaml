@@ -1,4 +1,6 @@
 ---
+- id: viewAllPost
+  translation: All About
 - id: blogTitle
   translation: About
 - id: readMore
