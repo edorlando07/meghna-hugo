@@ -7,8 +7,6 @@ author: Ed Orlando
 description: This is meta description
 
 ---
-Education text  
-
 Company and academic award-winning Data Scientist. Published numerous applications, dashboards, and data science studies utilized by 80+ hotels, corporate senior leaders and executives.  
 
 As a Limited Term Lecturer at Purdue University NW, I teach Applied Statistics and Data Visualization best practices.  
