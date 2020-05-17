@@ -1,8 +1,8 @@
 ---
 title: Experience
 date: 2020-05-15T05:00:00+00:00
-image_webp: "/images/portfolio/portfolio-7.webp"
-image: "/images/portfolio/portfolio-7.jpg"
+image_webp: "/images/blog/blog-post-1.webp"
+image: "/images/blog/blog-post-1.jpg"
 author: Ed Orlando
 description: This is meta description
 
