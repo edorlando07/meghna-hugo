@@ -1,8 +1,8 @@
 ---
 title: Experience
 date: 2020-05-15T05:00:00+00:00
-image_webp: "/images/about/about-business-man.webp"
-image: "/images/about/about-business-man.jpg"
+image_webp: ''
+image: ''
 author: Ed Orlando
 description: This is meta description
 
