@@ -24,7 +24,7 @@ URL = "blog"
 name = "Info"
 weight = 6
 [[menu.static]]
-URL = "https://github.com/edorlando07/blogdown"
+URL = "https://github.com/edorlando07"
 name = "GitHub"
 weight = ""
 [[menu.static]]
