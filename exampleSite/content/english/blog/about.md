@@ -7,10 +7,6 @@ image_webp = "/images/backgrounds/bg-white-wall.webp"
 title = "Education"
 
 +++
-Education text.  
+I continue to sharpen my data science skills by regularly tuning into Matt Dancho's Business Science University (BSU).  BSU offers advanced Learning Labs that discuss advanced data science topics.  
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
-
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+My formal education includes....... 
