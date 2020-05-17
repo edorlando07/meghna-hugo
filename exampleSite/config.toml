@@ -24,6 +24,10 @@ URL = "blog"
 name = "Info"
 weight = 6
 [[menu.static]]
+URL = "https://www.linkedin.com/in/edorlando07/"
+name = "LinkedIn"
+weight = ""
+[[menu.static]]
 URL = "https://ed-orlando07.netlify.app/"
 name = "Blog"
 weight = ""
