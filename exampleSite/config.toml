@@ -1,5 +1,5 @@
 baseURL = "https://ed-orlando07-home.netlify.com"
-disableLanguages = []
+disableLanguages = ["FR"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
