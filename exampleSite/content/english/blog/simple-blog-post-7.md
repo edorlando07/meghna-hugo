@@ -7,10 +7,10 @@ author: Ed Orlando
 description: This is meta description
 
 ---
-Education text
+Education text  
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+Company and academic award-winning Data Scientist. Published numerous applications, dashboards, and data science studies utilized by 80+ hotels, corporate senior leaders and executives.  
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+As a Limited Term Lecturer at Purdue University NW, I teach Applied Statistics and Data Visualization best practices.  
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+I also regularly sharpen my skills by tuning into Business Science University's Learning Labs which discusses advanced R topics and methods.
