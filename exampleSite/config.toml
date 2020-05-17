@@ -20,18 +20,16 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "services"
+URL = "about"
+name = "About"
+weight = 1
+[[menu.static]]
 name = "CV"
 url = "https://ed-orlando07.netlify.app/pdfs/CV_Orlando.pdf"
 weight = 2
-[[menu.main]]
-URL = "blog"
+[[menu.static]]
 name = "Blog"
 url = "https://ed-orlando07.netlify.app/"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "About Us"
 weight = 1
 [params]
 author = "Themefisher"
