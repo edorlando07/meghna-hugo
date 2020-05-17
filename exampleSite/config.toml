@@ -24,6 +24,10 @@ URL = "blog"
 name = "Info"
 weight = 6
 [[menu.static]]
+URL = "https://github.com/edorlando07/blogdown"
+name = "GitHub"
+weight = ""
+[[menu.static]]
 URL = "https://www.linkedin.com/in/edorlando07/"
 name = "LinkedIn"
 weight = ""
