@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   bg_image: images/backgrounds/bg-white-wall.jpg
   icon: ''
-  title: Everything data
-  content: A blog with R and Tableau
+  title: Data Exploration
+  content: A blog on data wrangling, visualization, and modeling with R and Tableau
   button:
     enable: true
     label: View Blog
