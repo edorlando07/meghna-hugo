@@ -23,10 +23,10 @@ weight = 2
 URL = "blog"
 name = "Info"
 weight = 6
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
+[[menu.static]]
+URL = "https://ed-orlando07.netlify.app/"
+name = "Blog"
+weight = ""
 [[menu.static]]
 URL = "https://ed-orlando07.netlify.app/pdfs/CV_Orlando.pdf"
 name = "CV"
