@@ -13,7 +13,7 @@ sections:
   match: "**/*"
   new_doc_ext: '20191203072044'
   templates:
-  - post
+  - author
 - type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
