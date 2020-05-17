@@ -5,7 +5,7 @@ description = "This is meta description"
 draft = true
 image = "/images/backgrounds/bg-white-wall.jpg"
 image_webp = "/images/backgrounds/bg-white-wall.webp"
-title = "About"
+title = "Education"
 
 +++
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
