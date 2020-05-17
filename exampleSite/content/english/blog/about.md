@@ -2,7 +2,6 @@
 author = "Ed Orlando"
 date = "2020-05-15T05:00:00+00:00"
 description = "This is meta description"
-draft = true
 image = "/images/backgrounds/bg-white-wall.jpg"
 image_webp = "/images/backgrounds/bg-white-wall.webp"
 title = "Education"
