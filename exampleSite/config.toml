@@ -28,9 +28,9 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = 8
+URL = "CV"
+name = "CV"
+weight = ""
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
