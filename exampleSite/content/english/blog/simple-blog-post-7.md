@@ -1,8 +1,8 @@
 ---
 title: Experience
 date: 2020-05-15T05:00:00+00:00
-image_webp: ''
-image: "/images/examplesite/static/images/landscape-photography-of-mountains-covered-in-snow-691668.jpg"
+image_webp: "/images/backgrounds/bg-testimonial.webp"
+image: "/images/backgrounds/bg-testimonial.jpg"
 author: Ed Orlando
 description: This is meta description
 
