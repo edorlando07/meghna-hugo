@@ -28,7 +28,7 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [[menu.static]]
-URL = "CV"
+URL = "https://ed-orlando07.netlify.app/pdfs/CV_Orlando.pdf"
 name = "CV"
 weight = ""
 [params]
