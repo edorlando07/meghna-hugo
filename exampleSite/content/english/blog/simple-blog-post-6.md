@@ -1,8 +1,8 @@
 ---
 title: Education
 date: 2020-05-12T05:00:00+00:00
-image_webp: ''
-image: ''
+image_webp: "/images/blog/blog-post-3.webp"
+image: "/images/blog/blog-post-3.jpg"
 author: Ed Orlando
 description: This is meta description
 
