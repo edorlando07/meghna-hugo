@@ -7,7 +7,7 @@ author: Ed Orlando
 description: This is meta description
 
 ---
-I have over 8 years of experience maintaining and developing White Lodging's data value chain.  
+I have over 8 years of professional experience maintaining and developing the organization's data value pipeline.  
 
 As a Data Scientist, I have published numerous applications, dashboards, and data science studies utilized by 80+ hotels, corporate senior leaders, and executives.
 
