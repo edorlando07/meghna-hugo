@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "blog"
-name = "Info"
+name = "About"
 weight = 6
 [[menu.static]]
 URL = "https://github.com/edorlando07"
