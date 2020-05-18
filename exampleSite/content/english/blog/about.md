@@ -11,4 +11,4 @@ For me, the learning journey is never complete.  I continue to sharpen my data s
 
 My formal education includes a Masters in Analytics and Modeling from Valparaiso University, an MBA from Purdue NW, and a Bachelors in Finance and Accounting from Purdue NW.
 
-I am also a (https://www.certifiedanalytics.org/) and am also certified as a Tableau Qualified Associate.
+I am also a (/https://www.certifiedanalytics.org/) and am also certified as a Tableau Qualified Associate.
