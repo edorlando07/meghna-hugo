@@ -7,9 +7,9 @@ image_webp = "/images/backgrounds/bg-white-wall.webp"
 title = "Education"
 
 +++
-For me, the learning journey is never complete.  I continue to sharpen my data science skills by regularly tuning into Matt Dancho's Business Science University (BSU). 
+For me, the learning journey is never complete.  I continue to sharpen my data science skills by regularly tuning into Matt Dancho's Learning Labs.
 
-BSU offers advanced Learning Labs that discuss advanced data science topics. 
+Learning Labs is an online platform that discusses advanced data science topics and techniques.
 
 My formal education includes a Masters in Analytics and Modeling from Valparaiso University, an MBA from Purdue NW, and a Bachelors in Finance and Accounting from Purdue NW.
 
