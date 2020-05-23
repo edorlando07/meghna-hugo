@@ -35,10 +35,6 @@ weight = ""
 URL = "https://ed-orlando07.netlify.app/"
 name = "Blog"
 weight = ""
-[[menu.static]]
-URL = "https://ed-orlando07.netlify.app/pdfs/CV_Orlando.pdf"
-name = "CV"
-weight = ""
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
