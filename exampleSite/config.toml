@@ -36,8 +36,8 @@ URL = "https://ed-orlando07.netlify.app/"
 name = "Blog"
 weight = ""
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Ed Orlando"
+description = "Data Exploration: A blog on data wrangling, visualization, and modeling with R and Tableau"
 google_analitycs_id = ""
 logo = ""
 post_share = false
