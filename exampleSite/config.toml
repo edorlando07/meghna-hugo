@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = ""
+title = "Data Exploration"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -40,7 +40,7 @@ author = "Ed Orlando"
 description = "Data Exploration: A blog on data wrangling, visualization, and modeling with R and Tableau"
 google_analitycs_id = ""
 logo = ""
-post_share = false
+post_share = true
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
@@ -72,7 +72,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-linkedin"
