@@ -73,7 +73,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "https://ed-orlando07-home.netlify.com"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/edorlando07/"
