@@ -39,7 +39,7 @@ weight = ""
 author = "Ed Orlando"
 description = "Data Exploration: A blog on data wrangling, visualization, and modeling with R and Tableau"
 google_analitycs_id = ""
-logo = "https://ed-orlando07-home.netlify.com"
+logo = ""
 post_share = true
 [params.map]
 enable = false
