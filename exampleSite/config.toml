@@ -32,7 +32,7 @@ URL = "https://www.linkedin.com/in/edorlando07/"
 name = "LinkedIn"
 weight = ""
 [[menu.static]]
-URL = "https://ed-orlando07.netlify.app/"
+URL = "https://ed-orlando-07-blog-site.netlify.app/"
 name = "Blog"
 weight = ""
 [params]
